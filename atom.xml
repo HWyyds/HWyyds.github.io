@@ -6,7 +6,7 @@
   <link href="https://fantanstic.top/atom.xml" rel="self"/>
   
   <link href="https://fantanstic.top/"/>
-  <updated>2022-10-16T13:01:09.622Z</updated>
+  <updated>2022-11-12T14:45:00.477Z</updated>
   <id>https://fantanstic.top/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「整挺好」，RedStar OS 3.0简评（补档）</title>
+    <link href="https://fantanstic.top/2022/11/12/redstar/"/>
+    <id>https://fantanstic.top/2022/11/12/redstar/</id>
+    <published>2022-11-12T03:45:14.000Z</published>
+    <updated>2022-11-12T14:45:00.477Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>此乃「文章补全计划」中的一篇文章，原文于2021年2月15日发表于酷安 <a href="https://www.coolapk.com/feed/24896453">原文链接</a></p><p>文章内容已略作改动</p><h2 id="如下，为正文"><a href="#如下，为正文" class="headerlink" title="如下，为正文"></a>如下，为正文</h2><h3 id="開頭的例行幹話"><a href="#開頭的例行幹話" class="headerlink" title="開頭的例行幹話"></a>開頭的例行幹話</h3><p>正如题所见，我搞来了这传说中的红星OS</p><p>如果要说到这红星OS，估计你们第一印象就是隔壁macOS</p><p>他，以相似度与macOS几乎一致，而又有一些知名的“问题”而出名（”问题”后文会提到的）</p><p>首先，让我们来了解下红星OS的由来：</p><p><img src="/2022/11/12/redstar/wwwwwwwwwww.jpg" alt="来源维基百科"></p><p>在一次偶然机会下，我有幸获取到了这红星OS2.0和3.0两个版本的安装镜像</p><p>废话不多说，当然直接开装！</p><p>下为虚拟机配置：</p><p><img src="/2022/11/12/redstar/IMG_20210214_223617.jpg" alt="这么说吧在这配置下至少还能顺跑"></p><h3 id="开始装喽"><a href="#开始装喽" class="headerlink" title="开始装喽"></a>开始装喽</h3><p>在设定完开机启动项后，我们便看到了安装界面：</p><p>映入眼帘的就是这……一片健康的颜色与这后现代主义的背景？</p><p><img src="/2022/11/12/redstar/de366b9904b168b.jpg" alt="一 片 绿"></p><p>设定用户：</p><p><img src="/2022/11/12/redstar/-3be1a99afce1ffee.png"></p><p>我说这头像是不是有些上世纪80年代的感觉（</p><p><img src="/2022/11/12/redstar/-37dbd3304d9e6a5c.png"></p><h4 id="安装过程中的对比"><a href="#安装过程中的对比" class="headerlink" title="安装过程中的对比"></a>安装过程中的对比</h4><p>等等，我觉得从这里开始就可以对比了：</p><p>这是Mac OS X 10.3的初次设定用户界面（之后的对比也会是使用Mac OS X 10.3，后文将简称为10.3；别问为什么用这版，问就是我觉得他俩长得像，并且当时我手上也只有这版Mac OS X能拉出来溜溜)</p><p><img src="/2022/11/12/redstar/44d4b9179f9cdff0.jpg" alt="像啊，很像啊"></p><p>一番波折后，进入系统部署页面：</p><p><img src="/2022/11/12/redstar/-7c0e97b75d7067ff.jpg" alt="甚至没有那个玄学的剩余安装时间，他真的，我哭死"></p><p>等等…你家这彩虹圈圈，就是Mac上的吧（悲）</p><p><img src="/2022/11/12/redstar/19028a8a3244ba10.png" alt="左为红星OS，右为macOS（提取版，运用在Windows上）"></p><p>部署完毕重开机，登入账户</p><p><img src="/2022/11/12/redstar/-64de613f068f5787.jpg"></p><p><img src="/2022/11/12/redstar/-8d70959abc23e4b.png"></p><p>而下面这个…是10.3的</p><p><img src="/2022/11/12/redstar/2624495_c1e165d9_3594_348@806x629.jpeg.m.jpg" alt="绝对是一个妈生出来的(确信)"></p><p>登入后，便是这后现代主义的主画面</p><p>这个鬼玩意儿居然还有自己的名字：KFinder（访达：喵喵喵？)</p><p><del>KFinder，RedStar桌面环境体验</del></p><p><img src="/2022/11/12/redstar/25b816287fce534b.jpg" alt="KFinder主画面"></p><p>而这…是Finder主画面</p><p><img src="/2022/11/12/redstar/114.png" alt="懒得再翻当时截图了，就直接把现在Montery的给搬过来算了，毕竟大体上还是没啥区别的说"></p><p>关键是，你家这KFinder，默认韩文且不得更改诶</p><p>我又看不懂韩文诶</p><p>别急，大丈夫大丈夫，我们可以靠亿点点手段，让他实现英文</p><p>下面这个就是他的英语界面了</p><p><img src="/2022/11/12/redstar/red1.png"></p><h4 id="装完后的对比"><a href="#装完后的对比" class="headerlink" title="装完后的对比"></a>装完后的对比</h4><p>现在系统是安装完成了……</p><p>那就看看他到底有多像mac吧（我会备注说明的）</p><p>注：由于素材是分批处理的，所以有的是韩文，有的是英语</p><p>关于本机：</p><p><img src="/2022/11/12/redstar/vs1.png" alt="左红星，右林檎"></p><p><del>另：我严重怀疑目前最新的macOS Ventura的关于本机界面不是抄袭了红星OS，就是玩起了文艺复兴的说</del></p><p>资源管理器：</p><p><img src="/2022/11/12/redstar/red3.png" alt="这是红星"></p><p><img src="/2022/11/12/redstar/708fdb35c6bb81e4.jpg" alt="这是林檎"></p><p>系统偏好设定：</p><p><img src="/2022/11/12/redstar/vs2.png" alt="左红星，右林檎"></p><p>日历：</p><p><img src="/2022/11/12/redstar/vs.png" alt="左红星，右林檎"></p><p>默认浏览器：</p><p><img src="/2022/11/12/redstar/vs3.png" alt="左红星，右林檎"></p><p>系统动画：</p><p><img src="/2022/11/12/redstar/1.gif" alt="你红星的窗口动画"></p><p><img src="/2022/11/12/redstar/2.gif" alt="这是小林檎的"></p><p><img src="/2022/11/12/redstar/4.gif" alt="你红星的dock"></p><p><img src="/2022/11/12/redstar/3.gif" alt="林檎的dock"></p><p>如果你们眼尖的话，可能会看到红星OS他们家的日历叫“KCal”，图片查看器是“KPhoto”</p><p>而当年10.3同期同款软件叫“iCal”，“iPhoto”</p><p>看到这里，估计各位可以都懂了</p><p>这……就是Mac OS X朝鲜限定版吧！</p><p>不能说一模一样，只能说完全一致啊</p><p>（另外，QuickTime播放器这两个系统都内建了，草）</p><h4 id="上-世-纪-壁-纸"><a href="#上-世-纪-壁-纸" class="headerlink" title="上 世 纪 壁 纸"></a>上 世 纪 壁 纸</h4><p>系统自带壁纸也极具当地特色：</p><p><img src="/2022/11/12/redstar/red6.png" alt="放这个小图你们就能懂了"></p><p>给我爸这个标准70后看后，让他以那个年代的审美评价，他说「还不错.」</p><h3 id="著名问题-确信"><a href="#著名问题-确信" class="headerlink" title="著名问题(确信)"></a>著名问题(确信)</h3><p>众所周知，这系统有两个知名的“问题”</p><p>自带的“我的国家”浏览器只能上朝鲜内网（刚才的浏览器对比各位应该也看到了，那是个内网IP，防火墙的设定是只能允许内网通过），以及文件会自动加水印</p><p>第一个问题比较好解决，只需要改亿点点设定就好了</p><p>（虽然当地内网还是无法上去，有机会可以去次朝鲜看看，或者有可以通往朝鲜的virtual private network)</p><p><del>(这时候就要请出我们的金主爸爸Surf……..(打断吟唱))</del></p><p>如果可以的话，打网址应该就可以进了</p><p>PS：不要打https，他会以为这不安全</p><p>PS2：在红星OS 2.0里，打百度网页版还是可以直接上去的</p><p>3.0相较于2.0反倒退步了(?</p><p><img src="/2022/11/12/redstar/5c0141642af5dc2d.png" alt="至少还能上网"></p><p>按照这张截图，我们可以得知这玩意儿是基于Fedora魔改的</p><p>又查了内核版本，好家伙，基于Linux 2.6.38内核</p><p>（下面那个是红星OS 2.0，基于Linux 2.6.25内核）</p><p>（反正都是几乎十年前的老版本了）</p><p><img src="/2022/11/12/redstar/23333.jpg"></p><p>如果你成功把这系统改成了英语，再打开“我的国家”浏览器后（前提是主页没改），你估计会看到这么一个提示：</p><p><img src="/2022/11/12/redstar/2624495_7fcf914e_3618_1085@774x112.jpeg.m.jpg"></p><p>由此可见，这浏览器就是Firefox魔改的，估计被魔改的也是老版本</p><p>第二个，就是“文件水印”了</p><p>简言之，就是不管你存什么文件，系统都会加上一个水印，用于追踪用，而这水印你看不到</p><p>不信的话，看看这个实验：</p><p>我新建了一个测试文档，放在U盘里，在红星OS的虚拟机里运行后再拷回主机，查看有没有变化</p><p>结果……从文件大小上来看，真的加水印了</p><p><img src="/2022/11/12/redstar/2624495_fc1e8007_3618_1086@862x668.jpeg.m.jpg"></p><p>左为原文件，右为在红星OS里面运行过的文件</p><p>可以看到，原文件“大小”旁边的占用字节数比复制过的文件要少。</p><p>再按照b站up主<a href="https://space.bilibili.com/3391089?spm_id_from=333.337.search-card.all.click">@数字云糕Official</a> 当时的测试，可以肯定这个系统已经对你的文件动了马脚了。</p><p><img src="/2022/11/12/redstar/red7.png"></p><h3 id="这货，甚至还有生产力…"><a href="#这货，甚至还有生产力…" class="headerlink" title="这货，甚至还有生产力…"></a>这货，甚至还有生产力…</h3><p>那么你就要问了，这么一个阴间系统，有没有生产力？</p><p>我可以很负责任的告诉你：有！</p><p>你，可以用它来写曲</p><p><img src="/2022/11/12/redstar/-1f858215914b1acc.png" alt="但我不懂编曲啊啊啊啊啊啊啊啊啊啊啊啊啊"></p><p>你，可以进行简单的office工作</p><p>原生支持中文输入法好评，可惜没有双拼</p><p><img src="/2022/11/12/redstar/red8.png" alt="莫名有种在用Office 2003的错觉"></p><p>在探索的时候，我甚至还发现可以写HTML</p><p>（虽然不能敲HTML指令了，感觉像个超低配Frontpage的说）</p><p><img src="/2022/11/12/redstar/2624495_26e3cd1f_3624_2209@952x379.jpeg.m.jpg"></p><p>而像编程和小游戏，不知道是不是我这个版本的问题，并没有找到路径</p><p>罢了，不研究了</p><p>总结一下：</p><p>与macOS几乎一致的相似度，还比macOS更封闭；违背了开源精神，不顾使用者隐私而私自加水印……</p><p>这破玩意儿你让我喷三天三夜我都喷不完</p><p>一句话，还好我不是当地人</p><p><del>（虽然我真的好奇未来这个鬼地方会不会也要这样的说）</del></p><h3 id="最后，One-more-thing…"><a href="#最后，One-more-thing…" class="headerlink" title="最后，One more thing…"></a>最后，One more thing…</h3><p>这鬼系统还支持在Windows环境内运行其安装镜像内的系统安装exe文件来安装红星OS，靠北哦…</p><p><img src="/2022/11/12/redstar/-2e37982e31211c45.jpg" alt="草"></p><p><img src="/2022/11/12/redstar/-5a7b25b9c1a3696b.png"></p><h2 id="结尾和一点碎碎念"><a href="#结尾和一点碎碎念" class="headerlink" title="结尾和一点碎碎念"></a>结尾和一点碎碎念</h2><p>首先很抱歉，「文章补全计划」被我咕了这么久，直到现在才被我重新开始更新</p><p>自从去年11月换上白苹果后，看着现在这macOS，甚至已经开始脑补要人家红星OS真做出个「RedStar OS Ventura」会是怎样的效果</p><p>这篇稿子也是用这台白果写出来的，<del>已经开始脑补什么时候开始适配ARM Mac的说</del></p><p>祝研发顺利(确信)</p><p><img src="/2022/11/12/redstar/PXL_20221112_204439023.jpg" alt="只要有梦想，左边早晚可以成为下一个右边"></p><p>完。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;此乃「文章补全计划」中的一篇文章，原文于2021年2月15日发表于酷安 &lt;a href=&quot;https://www.coolapk.com/f</summary>
+      
+    
+    
+    
+    <category term="文章补全计划" scheme="https://fantanstic.top/categories/%E6%96%87%E7%AB%A0%E8%A1%A5%E5%85%A8%E8%AE%A1%E5%88%92/"/>
+    
+    <category term="水" scheme="https://fantanstic.top/categories/%E6%96%87%E7%AB%A0%E8%A1%A5%E5%85%A8%E8%AE%A1%E5%88%92/%E6%B0%B4/"/>
+    
+    <category term="奇奇怪怪的东西" scheme="https://fantanstic.top/categories/%E6%96%87%E7%AB%A0%E8%A1%A5%E5%85%A8%E8%AE%A1%E5%88%92/%E6%B0%B4/%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84%E4%B8%9C%E8%A5%BF/"/>
+    
+    <category term="折腾" scheme="https://fantanstic.top/categories/%E6%96%87%E7%AB%A0%E8%A1%A5%E5%85%A8%E8%AE%A1%E5%88%92/%E6%B0%B4/%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84%E4%B8%9C%E8%A5%BF/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="系统" scheme="https://fantanstic.top/categories/%E6%96%87%E7%AB%A0%E8%A1%A5%E5%85%A8%E8%AE%A1%E5%88%92/%E6%B0%B4/%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84%E4%B8%9C%E8%A5%BF/%E6%8A%98%E8%85%BE/%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="日常" scheme="https://fantanstic.top/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
+    
+    <category term="补档" scheme="https://fantanstic.top/tags/%E8%A1%A5%E6%A1%A3/"/>
+    
+    <category term="备份" scheme="https://fantanstic.top/tags/%E5%A4%87%E4%BB%BD/"/>
+    
+    <category term="整活" scheme="https://fantanstic.top/tags/%E6%95%B4%E6%B4%BB/"/>
+    
+    <category term="系统" scheme="https://fantanstic.top/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>记一次中国银行洛天依小柠檬联名借记卡开户经历</title>
@@ -49,17 +91,17 @@
     
     <category term="日常" scheme="https://fantanstic.top/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
-    
     <category term="水" scheme="https://fantanstic.top/tags/%E6%B0%B4/"/>
     
     <category term="开箱" scheme="https://fantanstic.top/tags/%E5%BC%80%E7%AE%B1/"/>
     
+    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
+    
+    <category term="傻*二次元" scheme="https://fantanstic.top/tags/%E5%82%BB-%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
+    
     <category term="中行联名卡" scheme="https://fantanstic.top/tags/%E4%B8%AD%E8%A1%8C%E8%81%94%E5%90%8D%E5%8D%A1/"/>
     
     <category term="洛天依" scheme="https://fantanstic.top/tags/%E6%B4%9B%E5%A4%A9%E4%BE%9D/"/>
-    
-    <category term="傻*二次元" scheme="https://fantanstic.top/tags/%E5%82%BB-%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
     
   </entry>
   
@@ -98,19 +140,19 @@
     
     <category term="日常" scheme="https://fantanstic.top/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
-    
     <category term="水" scheme="https://fantanstic.top/tags/%E6%B0%B4/"/>
     
     <category term="开箱" scheme="https://fantanstic.top/tags/%E5%BC%80%E7%AE%B1/"/>
     
-    <category term="傻*二次元" scheme="https://fantanstic.top/tags/%E5%82%BB-%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
+    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
     
     <category term="招行联名卡" scheme="https://fantanstic.top/tags/%E6%8B%9B%E8%A1%8C%E8%81%94%E5%90%8D%E5%8D%A1/"/>
     
     <category term="方舟" scheme="https://fantanstic.top/tags/%E6%96%B9%E8%88%9F/"/>
     
     <category term="电信" scheme="https://fantanstic.top/tags/%E7%94%B5%E4%BF%A1/"/>
+    
+    <category term="傻*二次元" scheme="https://fantanstic.top/tags/%E5%82%BB-%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
     
   </entry>
   
@@ -145,11 +187,11 @@
     
     <category term="日常" scheme="https://fantanstic.top/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
-    
     <category term="水" scheme="https://fantanstic.top/tags/%E6%B0%B4/"/>
     
     <category term="开箱" scheme="https://fantanstic.top/tags/%E5%BC%80%E7%AE%B1/"/>
+    
+    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
     
     <category term="傻*二次元" scheme="https://fantanstic.top/tags/%E5%82%BB-%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
     
@@ -185,11 +227,11 @@
     
     <category term="日常" scheme="https://fantanstic.top/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
-    
     <category term="水" scheme="https://fantanstic.top/tags/%E6%B0%B4/"/>
     
     <category term="开箱" scheme="https://fantanstic.top/tags/%E5%BC%80%E7%AE%B1/"/>
+    
+    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
     
     <category term="机械键盘" scheme="https://fantanstic.top/tags/%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98/"/>
     
@@ -257,9 +299,9 @@
     
     <category term="日常" scheme="https://fantanstic.top/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="游记" scheme="https://fantanstic.top/tags/%E6%B8%B8%E8%AE%B0/"/>
-    
     <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
+    
+    <category term="游记" scheme="https://fantanstic.top/tags/%E6%B8%B8%E8%AE%B0/"/>
     
     <category term="补档" scheme="https://fantanstic.top/tags/%E8%A1%A5%E6%A1%A3/"/>
     
@@ -295,11 +337,11 @@
     
     <category term="日常" scheme="https://fantanstic.top/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="游记" scheme="https://fantanstic.top/tags/%E6%B8%B8%E8%AE%B0/"/>
+    <category term="水" scheme="https://fantanstic.top/tags/%E6%B0%B4/"/>
     
     <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
     
-    <category term="水" scheme="https://fantanstic.top/tags/%E6%B0%B4/"/>
+    <category term="游记" scheme="https://fantanstic.top/tags/%E6%B8%B8%E8%AE%B0/"/>
     
     <category term="随笔" scheme="https://fantanstic.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
@@ -379,11 +421,11 @@
     
     <category term="日常" scheme="https://fantanstic.top/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
-    
     <category term="水" scheme="https://fantanstic.top/tags/%E6%B0%B4/"/>
     
     <category term="开箱" scheme="https://fantanstic.top/tags/%E5%BC%80%E7%AE%B1/"/>
+    
+    <category term="放送事故" scheme="https://fantanstic.top/tags/%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85/"/>
     
     <category term="教程" scheme="https://fantanstic.top/tags/%E6%95%99%E7%A8%8B/"/>
     
